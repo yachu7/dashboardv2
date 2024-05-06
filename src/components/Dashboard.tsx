@@ -35,7 +35,7 @@ const Dashboard = () => {
 
       <p className="text-3xl py-4 font-semibold">
         Start Your Day
-        <br />& Be Productive✌️
+        <br />& Be Productive
       </p>
 
       <div className="">

@@ -9,7 +9,7 @@ import { MdTune, MdOutlineWbSunny } from "react-icons/md";
 const Top = () => {
   return (
     <div className="p-4 flex items-center">
-      <div className="pl-4  p-4 bg-[#f5f5f5] rounded-l-full text-gray-500">
+      <div className="-m-2 pl-4  p-4 bg-[#f5f5f5] rounded-l-full text-gray-500">
         <AiOutlineSearch />
       </div>
       <input
